@@ -85,8 +85,8 @@ education:
             - 웹표준
             - HTML5
             - CSS3
-      - degree: 전자공학과
-        university: 대진대학교
+      - university: 대진대학교
+        degree: 전자공학과
         time: 2013.03 - 2019.02
         details: |
           대진대학교 전자공학과 학사 졸업
