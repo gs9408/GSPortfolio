@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Gwansoo Kim
+    tagline: Prospective Frontend Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: kgs940823@gmail.com
+    phone: 010.2166.8175
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: gs9408
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -65,28 +65,32 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 풀스텍 웹개발자(프론트엔드&백엔드)
+        Academy: 강남 이젠아카데미
+        time: 2022.08 - 2023.01
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          풀스텍 웹개발 교육 이수.
+            - HTML5
+            - CSS3
+            - Javascript
+            - React.js
+            - MySQL
+            - Node.js
+            - Linux
+      - degree: UI/UX 웹퍼블리싱 초급
+        Academy: 종로 더조은컴퓨터아카데키
+        time: 2022.02 - 2022.02
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          UI/UX 웹퍼블리싱 초급
+            - 웹표준
+            - HTML5
+            - CSS3
+      - degree: 전자공학과
+        university: 대진대학교
+        time: 2013.03 - 2019.02
+        details: |
+          대진대학교 전자공학과 학사 졸업
+          
 experiences:
     title: Experiences
     info:
