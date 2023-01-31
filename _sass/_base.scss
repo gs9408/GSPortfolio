@@ -234,15 +234,15 @@ p {
               margin-right: 8px;
               margin-bottom: 12px;
               a {
-                display: block;
-                width: 185px;
-                height: 105px;
+                  display: block;
+                  width: 185px;
+                  height: 105px;
+                  transition: 0.4s;
                   img {
                       width: 100%;
-                      transition: 0.4s;
-                  }
-                  &:hover {
-                      opacity: 0.5;
+                    }
+                    &:hover {
+                        opacity: 0.5;
                   }
               }
             }
