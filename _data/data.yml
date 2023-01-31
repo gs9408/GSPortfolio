@@ -88,8 +88,8 @@ projects:
       - title: Clone Coding(React.js)
         link3: "https://github.com/gs9408/GS.Project/tree/main/03.React_Clone_Coding(Markdown)"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩(React.js)"
-        img2: "../assets/images/clonecoding2.png"
-        img3: "../assets/images/clonecoding3.png"
+        img7: "../assets/images/clonecoding2.png"
+        img8: "../assets/images/clonecoding3.png"
 
       - title: Atom
         link: "#"
