@@ -86,8 +86,10 @@ projects:
         img6: "../assets/images/OpenAPI.png"
 
       - title: Clone Coding(React.js)
-        link: ""
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link3: "https://github.com/gs9408/GS.Project/tree/main/03.React_Clone_Coding(Markdown)"
+        tagline: "W3School 사이트의 W3.CSS Template 클론코딩(React.js)"
+        img7: 
+        img8: 
 
       - title: Atom
         link: "#"
