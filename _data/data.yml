@@ -74,9 +74,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Clone Coding
+        link: "https://github.com/gs9408/"
+        tagline: "W3School 사이트의 W3.CSS Template 클론코딩"
 
       - title: DevStudio
         link: "#"
