@@ -50,7 +50,7 @@ education:
     title: Education
     info:
       - degree: 풀스텍 웹개발자(프론트엔드&백엔드)
-        Academy: 강남 이젠아카데미
+        university: 강남 이젠아카데미
         time: 2022.08 - 2023.01
         details: |
           풀스텍 웹개발 교육 이수.
@@ -62,7 +62,7 @@ education:
             - Node.js
             - Linux
       - degree: UI/UX 웹퍼블리싱 초급
-        Academy: 종로 더조은컴퓨터아카데키
+        university: 종로 더조은컴퓨터아카데미
         time: 2022.02 - 2022.02
         details: |
           UI/UX 웹퍼블리싱 초급
@@ -121,20 +121,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: 풀스텍 웹개발자(프론트엔드&백엔드)
+      - title: "풀스텍 웹개발자(프론트엔드&백엔드)"
         link: "#"
-        authors: 강남 이젠아카데미 (2022.08 - 2023.01)
-        conference: Addison-Wesley, 1968
+        authors: "강남 이젠아카데미 (2022.08 ~ 2023.01)"
+        conference: "풀스텍 웹개발 교육 이수(HTML5, CSS3, Javascript, React.js, MySQL, Node.js, Linux)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "UI/UX 웹퍼블리싱 초급"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 종로 더조은컴퓨터아카데미 (2022.02 ~ 2022.02)
+        conference: "UI/UX 웹퍼블리싱 초급과정 이수(웹표준, HTML5, CSS3)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "대진대학교"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: "전자공학과(2013.03 ~ 2019.02)"
+        conference: "대진대학교 전자공학과 학사 졸업"
 
 skills:
     title: Skills &amp; Proficiency
