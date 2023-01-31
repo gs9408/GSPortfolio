@@ -214,22 +214,24 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
-  .project-img {
-    box-shadow: 7px 7px 15px rgba(128, 128, 128, 0.732);
-    width: 200px;
-    height: 120px;
-    a {
-        img {
-            width: 100%
-        }
-    }
-  }
+  
   .projects-section {
     .intro {
       margin-bottom: 30px;
     }
     .item {
       margin-bottom: 15px;
+
+      .project-img {
+        box-shadow: 7px 7px 15px rgba(128, 128, 128, 0.732);
+        width: 200px;
+        height: 120px;
+        a {
+            img {
+                width: 100%
+            }
+        }
+      }
     }
   }
 
