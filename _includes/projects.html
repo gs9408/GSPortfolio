@@ -30,7 +30,8 @@
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-      
+
+      <!-- 클론코딩 프로젝트(Javascript) -->
       <div class="projectImgContainer">
           {% if project.img1 %}
             <div class="project-img">
@@ -55,6 +56,13 @@
           {% if project.img5 %}
             <div class="project-img">
                 <a href="{{ project.link }}" target="_blank"><img src="{{ project.img5 }}"></a>
+            </div>
+          {% endif %}
+
+        <!-- Open API 연동 프로젝트 -->
+          {% if project.img6 %}
+            <div class="project-img">
+                <a href="{{ project.link }}" target="_blank"><img src="{{ project.img6 }}"></a>
             </div>
           {% endif %}
       </div>

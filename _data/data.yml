@@ -83,9 +83,10 @@ projects:
         img4: "../assets/images/clonecoding4.png"
         img5: "../assets/images/clonecoding5.png"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Spotify Open API
+        link: "https://github.com/gs9408/GS.Project"
+        tagline: "Spotify 사이트에서 제공하는 Open API를 연동하여 최신, 인기가요 출력 및 검색 기능 구현"
+        img6: "../assets/images/OpenAPI.png"
 
       - title: Tempo
         link: "#"
