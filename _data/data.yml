@@ -77,7 +77,11 @@ projects:
       - title: Clone Coding
         link: "https://github.com/gs9408/GS.Project"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩"
-        img: "../assets/images/clonecoding1.png"
+        img1: "../assets/images/clonecoding1.png"
+        img2: "../assets/images/clonecoding2.png"
+        img3: "../assets/images/clonecoding3.png"
+        img4: "../assets/images/clonecoding4.png"
+        img5: "../assets/images/clonecoding5.png"
 
       - title: DevStudio
         link: "#"
