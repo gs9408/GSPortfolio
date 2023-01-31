@@ -16,32 +16,28 @@ sidebar:
     phone: 010.2166.8175
     timezone: Asia/Seoul Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
     instagram: gs.kim0823
     github: gs9408
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Basic
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Chinese
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
+          link:
+
+        - item: Baseball
           link:
 
 career-profile:
