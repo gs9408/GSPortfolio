@@ -224,6 +224,7 @@ p {
         .projectImgContainer {
             display: flex;
             flex-direction: row;
+            flex-wrap: wrap;
             justify-content: space-between;
             .project-img {
               box-shadow: 7px 7px 15px rgba(128, 128, 128, 0.732);
