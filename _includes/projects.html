@@ -32,7 +32,9 @@
       {% endif %}
 
       {% if project.img %}
-        <a href="{{ project.link }}" target="_blank"><img src="{{ project.img }}"></a>
+        <div class="project-img">
+            <a href="{{ project.link }}" target="_blank"><img src="{{ project.img }}"></a>
+        </div>
       {% endif %}
     </div><!--//item-->
   {% endfor %}
