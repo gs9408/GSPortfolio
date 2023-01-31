@@ -69,13 +69,10 @@ experiences:
       
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: Clone Coding
-        link: "https://github.com/gs9408/GS.Project"
+        link1: "https://github.com/gs9408/GS.Project/tree/main/01.Javascript_Clone_Coding"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩"
         img1: "../assets/images/clonecoding1.png"
         img2: "../assets/images/clonecoding2.png"
@@ -84,7 +81,7 @@ projects:
         img5: "../assets/images/clonecoding5.png"
 
       - title: Spotify Open API
-        link: "https://github.com/gs9408/GS.Project"
+        link2: "https://github.com/gs9408/GS.Project/tree/main/02.openAPI_Project(spotify)"
         tagline: "Spotify 사이트에서 제공하는 Open API를 연동하여 최신, 인기가요 출력 및 검색 기능 구현"
         img6: "../assets/images/OpenAPI.png"
 
