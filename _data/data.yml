@@ -51,32 +51,9 @@ career-profile:
 education:
     title: About
     info:
-      - degree: 풀스텍 웹개발자(프론트엔드&백엔드)
+      - degree: 예비 프론트엔드 개발자
         university: "저는 2022년 웹 개발이라는 새로운 도전을 시작한 '웹개발 비기너' 김관수입니다.
         새로운 도전을 시작하기로 마음을 먹고 스스로를 발전시켰던 알차고 뜻 깊은 6개월이라는 시간이 지나고 더 많은 배움과 성장 및 여러가지 많은 경험들을 함께할 수 있는 '팀'을 구하고 있는 준비된 '팀원'입니다."
-        time: 2022.08 - 2023.01
-        details: |
-          풀스텍 웹개발 교육 이수.
-            - HTML5
-            - CSS3
-            - Javascript
-            - React.js
-            - MySQL
-            - Node.js
-            - Linux
-      - degree: UI/UX 웹퍼블리싱 초급
-        university: 종로 더조은컴퓨터아카데미
-        time: 2022.02 - 2022.02
-        details: |
-          UI/UX 웹퍼블리싱 초급
-            - 웹표준
-            - HTML5
-            - CSS3
-      - degree: 대진대학교
-        university: 전자공학과
-        time: 2013.03 - 2019.02
-        details: |
-          대진대학교 전자공학과 학사 졸업
           
 experiences:
     title: Experiences
