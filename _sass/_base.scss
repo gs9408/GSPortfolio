@@ -215,9 +215,14 @@ p {
     color: darken($theme-color, 15%);
   }
   .project-img {
-    width: 200px;
-    height: 120px;
     box-shadow: 7px 7px 15px rgba(128, 128, 128, 0.732);
+    a {
+        width: 200px;
+        height: 120px;
+        img {
+            width: 100%
+        }
+    }
   }
   .projects-section {
     .intro {
