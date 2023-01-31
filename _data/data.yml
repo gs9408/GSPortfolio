@@ -41,14 +41,12 @@ sidebar:
           link:
 
 career-profile:
-    title: EDUCATION
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - 의료기기 진단 장비(혈관, 스트레스 검사장비 및 적외선 체열 진단장비) 설계, 조립 및 이관 작업
+      - 장비 유지보수(회로, 펌웨어, 기구 및 케이블 수정 적용)
+      - 신제품 개발 관련 Hardware 업무 진행
+      - 정책과제 관련 서류 처리 및 비용 관리
 education:
     title: Education
     info:
