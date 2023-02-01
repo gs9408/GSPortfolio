@@ -229,7 +229,6 @@ p {
             justify-content: flex-start;
             .project-img {
               box-shadow: 7px 7px 15px rgba(128, 128, 128, 0.732);
-              border-radius: 8px;
               width: 185px;
               height: 105px;
               margin-right: 8px;
@@ -238,6 +237,7 @@ p {
                   display: block;
                   width: 185px;
                   height: 105px;
+                  border-radius: 8px;
                   transition: 0.4s;
                   img {
                       width: 100%;
