@@ -91,9 +91,9 @@ projects:
         img7: "../assets/images/clonecoding7.png"
         img8: "../assets/images/clonecoding8.png"
 
-      - title: Atom
+      - title: Full Stack Project(FrontEnd & BackEnd)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Full Stack Project (아기 용품 쇼핑몰)"
 
       - title: Delta
         link: "#"
