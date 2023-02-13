@@ -174,6 +174,7 @@ p {
   }
   .section {
     margin-bottom: 60px;
+    
     .summary {
         ul {
             li {
@@ -183,11 +184,13 @@ p {
             }
         }
     }
+    
     .disposition {
         width: 60%;
         margin: auto;
 
         img {
+            display: block;
             width: 100%;
         }
     }
