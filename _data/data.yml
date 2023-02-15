@@ -54,17 +54,14 @@ publications:
     title: Education
     papers:
       - title: "풀스텍 웹개발자(프론트엔드&백엔드)"
-        link: "#"
         authors: "강남 이젠아카데미 (2022.08 ~ 2023.01)"
         conference: "풀스텍 웹개발 교육 이수(HTML5, CSS3, Javascript, React.js, MySQL, Node.js, Linux)"
 
       - title: "UI/UX 웹퍼블리싱 초급"
-        link: "#"
         authors: 종로 더조은컴퓨터아카데미 (2022.02 ~ 2022.02)
         conference: "UI/UX 웹퍼블리싱 초급과정 이수(웹표준, HTML5, CSS3)"
 
       - title: "대진대학교"
-        link: "#"
         authors: "전자공학과(2013.03 ~ 2019.02)"
         conference: "대진대학교 전자공학과 학사 졸업"
 
@@ -136,10 +133,6 @@ projects:
         link4: "https://github.com/gs9408/GS.Project/tree/main/04.Final_Pull_Stack_Project(LittleBee)"
         tagline: "Full Stack Project (아기 용품 쇼핑몰)"
         img9: "../assets/images/FinalProject.png"
-
-
-
-
 
 footer: >
     2023 <i class="fas fa-star"></i> GS<a href="https://gs9408.github.io" rel="nofollow"> Portfolio</a>
