@@ -113,7 +113,7 @@ projects:
     intro: 
     assignments:
       - title: Clone Coding
-        link1: "https://github.com/gs9408/GS.Project/tree/main/01.Javascript_Clone_Coding"
+        link1: "../assets/images/CloneCoding1/Clone01.html"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩"
         img1: "../assets/images/clonecoding1.png"
         img2: "../assets/images/clonecoding2.png"
