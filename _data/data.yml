@@ -112,7 +112,7 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: Clone Coding
+      - title1: Clone Coding
         link1: "../assets/Project/CloneCoding1/Clone01.html"
         link2: "../assets/Project/CloneCoding2/Clone02.html"
         link3: "../assets/Project/CloneCoding3/Clone03.html"
@@ -125,18 +125,18 @@ projects:
         img4: "../assets/images/clonecoding4.png"
         img5: "../assets/images/clonecoding5.png"
 
-      - title: Spotify Open API
+      - title2: Spotify Open API
         link6: "https://github.com/gs9408/GS.Project/tree/main/02.openAPI_Project(spotify)"
         tagline: "Spotify 사이트에서 제공하는 Open API를 연동하여 최신, 인기가요 출력 및 검색 기능 구현"
         img6: "../assets/images/OpenAPI.png"
 
-      - title: Clone Coding(React.js)
+      - title3: Clone Coding(React.js)
         link7: "https://github.com/gs9408/GS.Project/tree/main/03.React_Clone_Coding(Markdown)"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩(React.js)"
         img7: "../assets/images/clonecoding7.png"
         img8: "../assets/images/clonecoding8.png"
 
-      - title: Full Stack Project(FrontEnd & BackEnd)
+      - title4: Full Stack Project(FrontEnd & BackEnd)
         link9: "https://github.com/gs9408/GS.Project/tree/main/04.Final_Pull_Stack_Project(LittleBee)"
         tagline: "Full Stack Project (아기 용품 쇼핑몰)"
         img9: "../assets/images/FinalProject.png"

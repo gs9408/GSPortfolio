@@ -20,9 +20,10 @@
     <div class="item">
 
       <span class="project-title">
-        {% if project.link %}
-        <a href="#" target="_blank">{{ project.title }}</a>
-        {% else %}
+        {% if project.link1 %}
+        <a href="https://github.com/gs9408/GS.Project/tree/main/01.Javascript_Clone_Coding" target="_blank">{{ project.title1 }}</a>
+        {% else if project.link6 %}
+        <a href="https://github.com/gs9408/GS.Project/tree/main/02.openAPI_Project(spotify)" target="_blank">{{ project.title2 }}</a>
         {{ project.title }}
         {% endif %}
       </span>
