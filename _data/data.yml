@@ -114,10 +114,10 @@ projects:
     assignments:
       - title: Clone Coding
         link1: "../assets/images/CloneCoding1/Clone01.html"
-        link2: "../assets/images/CloneCoding1/Clone02.html"
-        link3: "../assets/images/CloneCoding1/Clone03.html"
-        link4: "../assets/images/CloneCoding1/Clone04.html"
-        link5: "../assets/images/CloneCoding1/Clone05.html"
+        link2: "../assets/images/CloneCoding2/Clone02.html"
+        link3: "../assets/images/CloneCoding3/Clone03.html"
+        link4: "../assets/images/CloneCoding4/Clone04.html"
+        link5: "../assets/images/CloneCoding5/Clone05.html"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩"
         img1: "../assets/images/clonecoding1.png"
         img2: "../assets/images/clonecoding2.png"
