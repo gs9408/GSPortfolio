@@ -284,9 +284,11 @@ p {
   }
   .publications-section {
     .publication-reason {
-        font-size: 15px;
-        font-weight: 600;
-        color: $text-color;
+        h3 {
+            font-size: 15px;
+            font-weight: 600;
+            color: $text-color;
+        }
     }
     .intro {
       margin-bottom: 30px;
