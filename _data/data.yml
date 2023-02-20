@@ -139,7 +139,7 @@ projects:
         img8: "../assets/images/clonecoding8.png"
 
       - title4: Full Stack Project(FrontEnd & BackEnd)
-        link9: "https://github.com/gs9408/Ezen_Project/tree/main/04.Final_Pull_Stack_Project(LittleBee)"
+        link9: "https://github.com/gs9408/Ezen_Project/blob/main/04.Final_Pull_Stack_Project(LittleBee)/LittleBee_FinalProject.pdf"
         tagline: "Full Stack Project (아기 용품 쇼핑몰)"
         img9: "../assets/images/FinalProject.png"
 
