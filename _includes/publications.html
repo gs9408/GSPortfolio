@@ -9,6 +9,11 @@
     </span>
     {{ publications.title }}
   </h2>
+  {% if publication.reason %}
+    <div class="publication-reason">
+        <h3>{{ publication.reason }}</h3>
+    </div>
+  {% endif %}
 
   {% if publications.intro %}
   <div class="intro">

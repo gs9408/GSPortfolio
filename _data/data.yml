@@ -52,6 +52,7 @@ career-profile:
     
 publications:
     title: Education
+    reason: 직무 전환을 위해 아래와 같은 과정 이수
     papers:
       - title: "풀스텍 웹개발자(프론트엔드&백엔드)"
         link: 
