@@ -22,12 +22,18 @@
       <span class="project-title">
         {% if project.link1 %}
         <a href="https://github.com/gs9408/GS.Project/tree/main/01.Javascript_Clone_Coding" target="_blank">{{ project.title1 }}</a>
+        {{ project.title }}
+        {% endif %}
         {% if project.link6 %}
         <a href="https://github.com/gs9408/GS.Project/tree/main/02.openAPI_Project(spotify)" target="_blank">{{ project.title2 }}</a>
-        <!-- {% if project.link6 %}
+        {{ project.title }}
+        {% endif %}
+        {% if project.link7 %}
         <a href="https://github.com/gs9408/GS.Project/tree/main/03.React_Clone_Coding(Markdown)" target="_blank">{{ project.title3 }}</a>
-        {% if project.link6 %}
-        <a href="https://github.com/gs9408/GS.Project/tree/main/04.Final_Pull_Stack_Project(LittleBee)" target="_blank">{{ project.title4 }}</a> -->
+        {{ project.title }}
+        {% endif %}
+        {% if project.link8 %}
+        <a href="https://github.com/gs9408/GS.Project/tree/main/04.Final_Pull_Stack_Project(LittleBee)" target="_blank">{{ project.title4 }}</a>
         {{ project.title }}
         {% endif %}
       </span>
