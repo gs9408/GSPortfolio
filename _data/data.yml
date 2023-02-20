@@ -47,7 +47,7 @@ career-profile:
       - 커뮤니케이션을 통해 문제를 해결하고 여러 프로젝트를 진행했던 경험으로 **<span>협업</span>**이 가능합니다.
       - 주어진 일은 **<span>책임감</span>**을 가지고 끝까지 해결하고, 다양한 방면으로 끊임없이 공부합니다.
       - 경험했던 여러가지 프로젝트를 바탕으로 다양한 관점에서 생각하며, 새로운 개발에도 두려움 없이 **<span>도전</span>**합니다.
-      - 주변의 많은 사람들이 인정할만큼의 좋은 성격으로 **<span>대인 관계</span>**가 원만합니다. abcd
+      - 주변의 많은 사람들이 인정할만큼의 좋은 성격으로 **<span>대인 관계</span>**가 원만합니다.
     disposition: "../assets/images/MyDisposition.png"
     
 publications:
@@ -132,7 +132,7 @@ projects:
 
       - title3: Clone Coding(React.js)
         link7: "https://gs9408.github.io/react-clonecoding2/"
-        # link8: "https://gs9408.github.io/react-clonecoding3/"
+        link8: "https://gs9408.github.io/react-clonecoding3/"
         tagline: "W3School 사이트의 W3.CSS Template 클론코딩(React.js)"
         img7: "../assets/images/clonecoding7.png"
         img8: "../assets/images/clonecoding8.png"
