@@ -127,7 +127,7 @@ projects:
         img5: "../assets/images/clonecoding5.png"
 
       - title2: Spotify Open APIasdf
-        link6: "https://github.com/gs9408/Ezen_Project/tree/main/02.openAPI_Project(spotify)"
+        link6: "https://github.com/gs9408/Ezen_Project/blob/main/02.openAPI_Project(spotify)/S4TIFY_OpenAPI_%EC%B5%9C%EC%A2%85.pdf"
         tagline: "Spotify 사이트에서 제공하는 Open API를 연동하여 최신, 인기가요 출력 및 검색 기능 구현"
         img6: "../assets/images/OpenAPI.png"
 
