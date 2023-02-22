@@ -70,7 +70,7 @@ publications:
         conference: "대진대학교 전자공학과 학사 졸업"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: HTML5 & CSS3
@@ -87,9 +87,6 @@ skills:
 
       - name: Node.js
         level: 40%
-
-      - name: Linux
-        level: 15%
 
 education:
     title: About
